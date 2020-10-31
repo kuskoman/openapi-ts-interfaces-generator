@@ -1,6 +1,6 @@
 {
   "name": "openapi-ts-interfaces-generator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Library for TypeScript interfaces using OpenAPI specification written in JavaScript ",
   "main": "lib/index.mjs",
   "bin": "lib/cli.mjs",
